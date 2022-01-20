@@ -38,9 +38,7 @@ namespace LDP
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
-  </a>
+  
 	
   <a href="https://www.linkedin.com/in/leducphi/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
@@ -54,13 +52,7 @@ namespace LDP
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   </a>
   
-  <a href="https://www.tiktok.com/@leducphiz">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
-  </a>
   
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
-  </a>
 </p>
 
 
