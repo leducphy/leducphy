@@ -15,13 +15,13 @@ namespace TNT
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
+            string Name = "Lê Đức Phi";
             string Age = "2002";
             string Gender = "Male";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
-            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+            string Address = "Vinh Phuc - Viet Nam";
+            string University = "FPT University";
+            string Skills = "Learning";
+            string FamousQuotes = "";
         }
     }
 }
