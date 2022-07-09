@@ -21,7 +21,7 @@ namespace LDP
             string Address = "Vinh Phuc - Viet Nam";
             string University = "FPT University";
             string Skills = "Learning";
-            string FamousQuotes = "Nothing impossible";
+            string FamousQuotes = "ad astra per aspera";
         }
     }
 }
