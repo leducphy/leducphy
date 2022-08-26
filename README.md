@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/leducphiz">
-	<img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/299910695_1784557538546271_3217830398510643780_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=CGniBa9jE-4AX9Bp6l5&_nc_ht=scontent.fhan15-1.fna&oh=00_AT8ki83KIgPUVz6vyk1beNRt0Xi8BT8h8ChFvSj5HBxh7g&oe=630D2EE2" width = "300" alt="Le Duc Phi" border-radius: "50%"style="width: 200px;border-radius:50%;">
+	<img src="https://scontent.fhan15-1.fna.fbcdn.net/v/t39.30808-6/299910695_1784557538546271_3217830398510643780_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=CGniBa9jE-4AX9Bp6l5&_nc_ht=scontent.fhan15-1.fna&oh=00_AT8ki83KIgPUVz6vyk1beNRt0Xi8BT8h8ChFvSj5HBxh7g&oe=630D2EE2" width = "340" alt="Le Duc Phi" >
 	</a>
 </p>
 
