@@ -1,4 +1,4 @@
-# <p align="center">Phi Le</p>
+# <p align="center">Le Duc Phi</p>
 
 <p align="center">
 	<a href="https://github.com/leducphiz">
