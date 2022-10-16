@@ -9,7 +9,7 @@
 <h2 align="center">About me</h2>
 
 ```C#
-namespace LDP
+namespace MyProfile
 {
     class PhiLe
     {
