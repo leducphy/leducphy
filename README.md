@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/leducphiz">
-	<img src="https://avatars.githubusercontent.com/u/91577321?v=4" width = "340" alt="Le Duc Phi" >
+	<img src="https://files.catbox.moe/i1lwki.JPG" width = "340" alt="Le Duc Phi" >
 	</a>
 </p>
 
