@@ -1,7 +1,7 @@
 # <p align="center">Le Duc Phi</p>
 
 <p align="center">
-	<a href="https://github.com/leducphiz">
+	<a href="https://github.com/leducphy">
 	<img src="https://files.catbox.moe/i1lwki.JPG" width = "340" alt="Le Duc Phi" >
 	</a>
 </p>
